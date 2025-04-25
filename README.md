@@ -1,5 +1,4 @@
 ![E-Controls](https://github.com/user-attachments/assets/0a0ad21e-f70b-43e1-bfde-248f2cd69966)
-![output-onlinepngtools](https://github.com/user-attachments/assets/bee8b1ae-243e-482a-aaed-63e3f9fc61d1)
 
 # 🏆 Teigkneter mit Hebekipper – Abschlussprojekt 2025
 
@@ -60,6 +59,7 @@ Lade die Dateien herunter und öffne sie in **TIA Portal V17** bzw. **EPLAN P8**
 📅 **Projektzeitraum:** 25.09.2024 – 29.01.2025  
 📍 **Lycée Privé Emile Metz** | **Klasse 1TPSTC**  
 
+![output-onlinepngtools](https://github.com/user-attachments/assets/bee8b1ae-243e-482a-aaed-63e3f9fc61d1)
 ---
 
 ## 📩 **Kontakt & Feedback**
