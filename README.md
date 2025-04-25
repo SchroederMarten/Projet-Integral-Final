@@ -39,7 +39,6 @@ Das System arbeitet im **Automatik- und Reparaturmodus** und umfasst:
 
 ![Bild-20250326-104455-9ec783e5](https://github.com/user-attachments/assets/6f89894e-0183-40cc-988f-34b6269857ee)
 
-
 ---
 
 ## ⚙️ **Installation & Nutzung**
@@ -63,10 +62,10 @@ Lade die Dateien herunter und öffne sie in **TIA Portal V17** bzw. **EPLAN P8**
 ---
 
 ## 📩 **Kontakt & Feedback**
-Falls du Fragen hast oder das Projekt verbessern möchtest, **öffne ein Issue** oder kontaktiere mich unter:  
+Falls du Fragen hast oder das Projekt verbessern möchtest, **öffne ein Issue** oder kontaktiere uns unter:  
 
-✉️ **E-Mail:** _Martenmooi@live.de_  
-
+✉️ **E-Mail:** _SchMa494@School.lu_  oder _Martenmooi@live.de_
+✉️ **E-Mail:** _BarGu670@school.lu_
 ---
 
 ### 📌 **Lizenz**
