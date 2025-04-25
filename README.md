@@ -1,3 +1,6 @@
+![E-Controls](https://github.com/user-attachments/assets/0a0ad21e-f70b-43e1-bfde-248f2cd69966)
+![output-onlinepngtools](https://github.com/user-attachments/assets/bee8b1ae-243e-482a-aaed-63e3f9fc61d1)
+
 # 🏆 Teigkneter mit Hebekipper – Abschlussprojekt 2025
 
 ## 🔧 **Projektbeschreibung**
@@ -33,8 +36,10 @@ Das System arbeitet im **Automatik- und Reparaturmodus** und umfasst:
 
 ---
 
-## 📸 **Screenshots & Schaltpläne**
-Falls gewünscht, kannst du **Screenshots oder Schaltpläne** als Bilder (`/Images/`) hinzufügen, um das Projekt visuell zu präsentieren.
+## 📸 **Anlagen Foto
+
+![Bild-20250326-104455-9ec783e5](https://github.com/user-attachments/assets/6f89894e-0183-40cc-988f-34b6269857ee)
+
 
 ---
 
@@ -60,10 +65,9 @@ Lade die Dateien herunter und öffne sie in **TIA Portal V17** bzw. **EPLAN P8**
 ## 📩 **Kontakt & Feedback**
 Falls du Fragen hast oder das Projekt verbessern möchtest, **öffne ein Issue** oder kontaktiere mich unter:  
 
-✉️ **E-Mail:** _deinname@example.com_  
-🔗 **LinkedIn/GitHub:** [_deinProfil_](https://github.com/deinProfil)
+✉️ **E-Mail:** _Martenmooi@live.de_  
 
 ---
 
 ### 📌 **Lizenz**
-Dieses Projekt steht unter der **MIT-Lizenz** – frei zur Nutzung und Weiterentwicklung.  
+Dieses Projekt steht unter der **Apache 2.0 Lizenz** – frei zur Nutzung und Weiterentwicklung.  
