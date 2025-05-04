@@ -3,7 +3,7 @@
 # 🏆 Teigkneter mit Hebekipper – Abschlussprojekt 2025
 
 ## 🔧 **Projektbeschreibung**
-Dieses Projekt ist Teil meines Abschlussprojekts am **Lycée Privé Emile Metz**. Es handelt sich um eine **automatisierte Teigherstellung** mit einem **Hebekipper**, gesteuert durch modernste Technologien:
+Dieses Projekt ist Teil eines Abschlussprojekts am **Lycée Privé Emile Metz** von SCHROEDER Marten & BARREIRO Guilherme. Es handelt sich um eine **automatisierte Teigherstellung** mit einem **Hebekipper**, gesteuert durch modernste Technologien:
 
 ✔️ **Siemens SPS S7-1500** für präzise Steuerung  
 ✔️ **Sinamics G120 Frequenzumrichter** für variable Motorregelung  
