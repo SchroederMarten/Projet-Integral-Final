@@ -37,7 +37,7 @@ Das System arbeitet im **Automatik- und Reparaturmodus** und umfasst:
 
 ## 📸 **Anlagen Foto
 
-![Bild-20250326-104455-9ec783e5](https://github.com/user-attachments/assets/6f89894e-0183-40cc-988f-34b6269857ee)
+![image-20250430-094122-74635c8a](https://github.com/user-attachments/assets/9163a314-0367-4864-afa0-5f51692ed49d)
 
 ---
 
